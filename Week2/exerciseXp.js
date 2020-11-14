@@ -21,5 +21,4 @@
 // 4. Call the function
 // 5. Console.log the age of my mum
 
-
-alert("hi");
+var age= prompt("what is your age?")
